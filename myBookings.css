@@ -1,0 +1,117 @@
+*
+{
+padding: 0;
+margin: 0;
+box-shadow: border-box;
+}
+body
+{
+  background-image: url(https://www.12apostleshotel.com/-/media/ttc/rch/12-apostles-hotel/main-carousel/mobile-1024x576/12a-accom-presidential-001-1024x576.jpg?h=576&la=en&w=1024&hash=786AC9F99999705DF7C8167C5442FE97193A8A1Fg);
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+.menu-bar
+{
+  background :rgb(0, 18, 100);
+  text-align:center;
+}
+.menu-bar ul 
+
+{
+display: inline-flex;
+list-style: none;
+color: #fff;
+
+}
+.menu-bar ul li
+{
+  width: 120px;
+  margin:15px;
+  padding: 15px;
+}
+.menu-bar ul li a
+{
+  text-decoration: none;
+  color: #fff;
+}
+.active, .menu-bar ul li:hover
+{
+background: #11023a;
+border-radius: 3px;
+}
+.Welcome
+{
+  margin:8% auto 0;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+h1{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+  text-align: center;
+
+}
+p{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+
+}
+p1{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 23px;
+}
+
+
+.Form-field
+{
+  height:30vh;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+ font-family:'Dancing Script', Pairings;
+  
+
+
+}
+.search-btn
+{
+  height:20px;
+  width: 80px;
+  background: #ffeb3b;
+  border:none;
+  color:#000;
+  border-radius: 34px;
+}
+.search-btn:hover
+{
+  background:#ffc107;
+  cursor: Pointer;
+}
+.form-box
+{
+  background: rgba(0,0,0,0.5);
+  padding:40px;
+}
+P2{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 23px;
+ text-align: Center;
+}
+.Pictures
+{
+padding: 0;
+margin: 0;
+box-shadow: border-box;
+}
+p2{
+  font-family:'Dancing Script', Pairings;
+  font-weight:normal;
+ font-size: 27px;
+}
